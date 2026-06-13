@@ -210,7 +210,7 @@ This project successfully demonstrates frontend and backend integration using mo
 
 Developed By
 
-surya prakash 
+Surya prakash 
 
 Full Stack Development Internship
 
